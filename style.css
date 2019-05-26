@@ -1,0 +1,1790 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Infant&display=swap');
+header {
+    background-image: url("Spain_Houses_Rivers_Temples_El_Rocio_Andalusia_550866_3220x2000.jpg");
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 500px;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    font-size: 150px;
+    background-attachment: fixed;
+    font-family: 'Pangolin', cursive;
+}
+body {
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8)
+}
+.spain {
+    color: white;
+    background-color: rgba(255,0,0,0.5);
+    border-radius: 10px;
+}
+main {
+    margin: 0 100px;
+    display: flex;
+}
+.menu {
+    margin: 50px 20px;
+    width: auto;
+    height: 178px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: lightsalmon;
+}
+.text {
+    margin: 20px;
+    font-size: 20px;
+    font-family: 'Cormorant Infant', serif;
+}
+.d1 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d11 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d2 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d21 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d3 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d31 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d4 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d41 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d5 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d51 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d6 {
+    border: 2px black;
+    background-color: coral;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.d61 {
+    border: 2px black;
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.a {
+    text-align: center;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 5px;
+    border: 5px solid gold;
+}
+h1 {
+    text-align: center;
+    margin: 50px;
+    font-family: 'Comfortaa', cursive;
+}
+.l {
+    color: gray;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+.ggg {
+    background-image: url("ggg.png");
+    width: 1000px;
+    height: 327px;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+.fot {
+    background-color: black;
+    margin: 50px 0px 0px;
+}
+.k {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+.d11:hover{
+    background-color: darkorange;
+}
+.d1:hover{
+    background-color: orangered;
+}
+.d2:hover{
+    background-color: darkorange;
+}
+.d21:hover{
+    background-color: orangered;
+}
+.d3:hover{
+    background-color: darkorange;
+}
+.d31:hover{
+    background-color: orangered;
+}
+.d5:hover{
+    background-color: darkorange;
+}
+.d51:hover{
+    background-color: orangered;
+}
+.d6:hover{
+    background-color: darkorange;
+}
+.d61:hover{
+    background-color: orangered;
+}
+.g1 {
+    background-image: url("barcelona.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g2 {
+    background-image: url("madrid.jpeg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g3 {
+    background-image: url("alikante.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g4 {
+    background-image: url("caloy.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g5 {
+    background-image: url("valencia.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g6 {
+    background-image: url("deniya.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g7 {
+    background-image: url("malaga.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g8 {
+    background-image: url("lloret-de-mar.jpeg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g9 {
+    background-image: url("jirona.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g10 {
+    background-image: url("lac-palmac.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g11 {
+    background-image: url("cevila.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g12 {
+    background-image: url("ibica.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g13 {
+    background-image: url("toledo.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g14 {
+    background-image: url("granada.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g15 {
+    background-image: url("kalafel.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g16 {
+    background-image: url("canta-kruz.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g17 {
+    background-image: url("bilbao.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g18 {
+    background-image: url("segovia.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g19 {
+    background-image: url("can-cebactyan.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g20 {
+    background-image: url("salamanca.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g21 {
+    background-image: url("mursia.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g22 {
+    background-image: url("kordova.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g23 {
+    background-image: url("kadis.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g24 {
+    background-image: url("saragosa.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g25 {
+    background-image: url("santiago-de-compostela.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g26 {
+    background-image: url("pamplona.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g27 {
+    background-image: url("la-koryna.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g28 {
+    background-image: url("Puerto-de-la-krus.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g29 {
+    background-image: url("la-laguna.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g30 {
+    background-image: url("la-oratava.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g31 {
+    background-image: url("santa-krus-de-la-palma.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.g32 {
+    background-image: url("palma_de_mallorca.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.con1 {
+    display: flex;
+    justify-content: center;
+}
+.karta {
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.5);
+    width: 600px;
+    height: 450px;
+    margin: auto;
+}
+.f {
+    background-color: rgba(0,0,255,0.5);
+}
+.comd1 {
+    background-image: url("dostopremechatelnoct13.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd2 {
+    background-image: url("1.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd3 {
+    background-image: url("2.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.com {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.r1 {
+    position: relative;
+    width: 200px;
+    margin: 20px auto;
+    border-radius: 5px; 
+    background-color: rgba(0,0,255,0.5);
+    color: white;
+}
+.p {
+    text-align: center;
+    padding: 5px;
+}
+.p1 {
+    text-align: center;
+    padding: 5px;
+}
+.comd4 {
+    background-image: url("3.jpg");
+    width: 200px;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;  
+    float: right;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.com1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.comd5 {
+    background-image: url("4.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd6 {
+    background-image: url("5.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd7 {
+    background-image: url("madrid.jpeg");
+    width: 700px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    padding: 15px 5%;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.com2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.comd8 {
+    background-image: url("6.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd9 {
+    background-image: url("7.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd10 {
+    background-image: url("8.jpg");
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd11 {
+    background-image: url("9.jpg");
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd12 {
+    background-image: url("10.jpg");
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd13 {
+    background-image: url("11.jpg");
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;  
+    float: right;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.p2 {
+    text-align: center;
+    padding: 5px;
+}
+.comd14 {
+    background-image: url("12.jpg");
+    width: 200px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd15 {
+    background-image: url("13.jpg");
+    width: 200px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd16 {
+    background-image: url("14.jpg");
+    width: 200px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd17 {
+    background-image: url("16.jpg");
+    width: 200px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;  
+    float: right;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.comd18 {
+    background-image: url("15.jpg");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+    padding: 15px 5%;
+    text-align: center;  
+    float: left;
+    box-shadow: 0 0 10px 10px rgba(0,0,0,0.2);
+}
+.p3 {
+    text-align: center;
+}
+.kek1 {
+    background-image: url("dostopremechatelnoct1.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek2 {
+    background-image: url("dostopremechatelnoct2.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek3 {
+    background-image: url("dostopremechatelnoct3.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek4 {
+    background-image: url("dostopremechatelnoct4.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek5 {
+    background-image: url("dostopremechatelnoct5.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek6 {
+    background-image: url("dostopremechatelnoct6.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek7 {
+    background-image: url("dostopremechatelnoct7.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek8 {
+    background-image: url("dostopremechatelnoct8.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.kek9 {
+    background-image: url("dostopremechatelnoct9.jpg");
+    width: 300px;
+    height: 340px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+    color: white;
+    margin: 5px;
+}
+.wq {
+    background-image: url("dostopremechatelnoct1.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq1 {
+    background-image: url("dostopremechatelnoct2.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq2 {
+    background-image: url("dostopremechatelnoct3.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq3 {
+    background-image: url("dostopremechatelnoct4.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq4 {
+    background-image: url("dostopremechatelnoct5.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+
+.wq5 {
+    background-image: url("dostopremechatelnoct6.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq6 {
+    background-image: url("dostopremechatelnoct7.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq7 {
+    background-image: url("dostopremechatelnoct8.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq8 {
+    background-image: url("dostopremechatelnoct9.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq9 {
+    background-image: url("dostopremechatelnoct10.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq10 {
+    background-image: url("dostopremechatelnoct11.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq11 {
+    background-image: url("dostopremechatelnoct12.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq12 {
+    background-image: url("palma_de_mallorca.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq13 {
+    background-image: url("1.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq14 {
+    background-image: url("2.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq15 {
+    background-image: url("3.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq16 {
+    background-image: url("4.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq17 {
+    background-image: url("5.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq18 {
+    background-image: url("6.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq19 {
+    background-image: url("7.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq20 {
+    background-image: url("8.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq21 {
+    background-image: url("9.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq22 {
+    background-image: url("10.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq23 {
+    background-image: url("11.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq24 {
+    background-image: url("12.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq25 {
+    background-image: url("13.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq26 {
+    background-image: url("14.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq27 {
+    background-image: url("15.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq28 {
+    background-image: url("16.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq29 {
+    background-image: url("bilbao.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq30 {
+    background-image: url("caloy.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq31 {
+    background-image: url("alikante.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq32 {
+    background-image: url("can-cebactyan.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq33 {
+    background-image: url("salamanca.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq34 {
+    background-image: url("deniya.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq35 {
+    background-image: url("santa-krus-de-la-palma.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq36 {
+    background-image: url("santiago-de-compostela.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq37 {
+    background-image: url("segovia.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq38 {
+    background-image: url("saragosa.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq39 {
+    background-image: url("spain.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq40 {
+    background-image: url("jirona.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq41 {
+    background-image: url("lloret-de-mar.jpeg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq42 {
+    background-image: url("Spain_Houses_Rivers_Temples_El_Rocio_Andalusia_550866_3220x2000.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq43 {
+    background-image: url("toledo.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq44 {
+    background-image: url("valencia.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq45 {
+    background-image: url("madrid.jpeg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq46 {
+    background-image: url("malaga.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq47 {
+    background-image: url("mursia.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq48 {
+    background-image: url("santiago-de-compostela.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq49 {
+    background-image: url("kadis.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq50 {
+    background-image: url("kordova.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.wq51 {
+    background-image: url("kalafel.jpg");
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    transition: 0.5s;
+}
+.vid1 {
+    background-image: url("1499276226_3.jpg");
+    width: 700px;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.vid2 {
+    background-image: url("s12001.jpg");
+    width: 700px;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.vid3 {
+    background-image: url("123.jpg");
+    width: 700px;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+.vid {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
